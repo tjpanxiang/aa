@@ -1,0 +1,5 @@
+summary.jsp可以只更新user相关服务器，summary.jsp更新路径是以下
+webapps\wechat\jsp\wechat
+
+sfdao.jar需要更新所有服务器，sfdao.jar更新路径是以下
+webapps\wechat\WEB-INF\lib
